@@ -10,7 +10,7 @@ Add the following env variable to the relay:
 BATCH_REQUESTS_ENABLED=true
 ```
 
-Run the script to deploy the initial contract:
+Run the script to deploy the initial contract. This example connects to a relay with enabled batch requests and using the Local node. If you want to test a public network you will have to edit the accounts in `hardhat.config.js`:
 ```
 cd hardhat-working-example
 npm install
