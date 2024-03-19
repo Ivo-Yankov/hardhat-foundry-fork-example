@@ -10,7 +10,7 @@ Add the following env variable to the relay:
 BATCH_REQUESTS_ENABLED=true
 ```
 
-
+Run the script to deploy the initial contract:
 ```
 cd hardhat-working-example
 npm install
