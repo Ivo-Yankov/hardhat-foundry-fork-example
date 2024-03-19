@@ -19,6 +19,7 @@ node scripts/createCounter.js
 ```
 
 Copy the Counter address to: 
+
     - `hardhat-working-example/test/CounterManager.js`
     - `hardhat-non-working-example/test/CounterManager.js`
     - `foundry-example/test/Counter.t.sol`
